@@ -16,6 +16,6 @@ Link to GitHub repo: https://github.com/andrew1835/Note_Taker
 Link to deployed application: https://andrewreactportfolio.herokuapp.com/
 
 # Screenshot
-This screenshot shows what the home page of the portfolio looks like
+This screenshot shows what the home page looks like when I click on the "Hello," note.
 
-<img src = "./src/components/Images/ReactApp.jpg" alt = "Home page">
+<img src = "./images/expressNotes.jpg" alt = "Home page">
