@@ -8,10 +8,10 @@ To achieve the end result, I:
 3. Wrote out the HTML routes in order to show the correct pages on screen
 4. Wrote out the API routes to save all the data and display it on screen
 
-The assignment was tricky, but really valuable. Even if I don't go into full-stack / back-end coding and instead focus on front-end for my career, I'm sure having a basic understanding  
+The assignment was tricky, but really valuable. Even if I don't go into full-stack / back-end coding and instead focus on front-end for my career, I'm sure having a basic understanding of how the back-end works and how everything is routed will serve me well going forward. 
 
 # Links
-Link to GitHub repo: https://github.com/andrew1835/React-Portfolio
+Link to GitHub repo: https://github.com/andrew1835/Note_Taker
 <br>
 Link to deployed application: https://andrewreactportfolio.herokuapp.com/
 
