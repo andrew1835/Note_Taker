@@ -13,7 +13,7 @@ The assignment was tricky, but really valuable. Even if I don't go into full-sta
 # Links
 Link to GitHub repo: https://github.com/andrew1835/Note_Taker
 <br>
-Link to deployed application: https://andrewreactportfolio.herokuapp.com/
+Link to deployed application: https://lit-sands-97365.herokuapp.com/
 
 # Screenshot
 This screenshot shows what the home page looks like when I click on the "Hello," note.
